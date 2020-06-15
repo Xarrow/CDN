@@ -1,2 +1,1 @@
-# cdn
-jsDelivr  static  cdn resource
+# just jsDeliver  cdn resources
